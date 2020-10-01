@@ -11,7 +11,7 @@ On Ubuntu 16.04 LTS or up:
 
 ## View/Run Online
 - [Run jupyter notebooks on Google Colab](https://colab.research.google.com/github/HEXcube/DataPreprocessPy/)
-- [View assignment report on Google Docs Viewer](https://docs.google.com/gview?url=https://rawcdn.githack.com/HEXcube/DataPreprocessPy/1f6a5da21f117428a6ca5eb5ac1a6bd9354119d0/Report%20Prototype.docx)
+- [View assignment report on Google Docs Viewer](https://docs.google.com/gview?url=https://rawcdn.githack.com/HEXcube/DataPreprocessPy/v1/Report%20Prototype.docx)
 
 ## Credits
 By team_pyCrastinators:
