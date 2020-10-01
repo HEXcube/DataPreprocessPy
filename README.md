@@ -11,8 +11,7 @@ On Ubuntu 16.04 LTS or up:
 
 ## View/Run Online
 - [Run jupyter notebooks on Google Colab](https://colab.research.google.com/github/HEXcube/DataPreprocessPy/)
-- [View assignment report on Microsoft Office Viewer](https://view.officeapps.live.com/op/embed.aspx?src=https://github/HEXcube/Report%20Prototype.docx)
-- [View assignment presentation on Google Docs Viewer](https://docs.google.com/gview?url=https://github/HEXcube/Data%20Mining%20Preprocessing.odp)
+- [View assignment report on Google Docs Viewer](https://docs.google.com/gview?url=https://rawcdn.githack.com/HEXcube/DataPreprocessPy/1f6a5da21f117428a6ca5eb5ac1a6bd9354119d0/Report%20Prototype.docx)
 
 ## License
 - Except where otherwise noted, all original content here are released under [MIT license](https://opensource.org/licenses/MIT)
