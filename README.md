@@ -10,8 +10,8 @@ On Ubuntu 16.04 LTS or up:
     jupyter lab
 
 ## View/Run Online
-- [Run jupyter notebooks on Google Colab](https://colab.research.google.com/github/HEXcube/DataPreprocessPy/)
-- [View assignment report on Google Docs Viewer](https://docs.google.com/gview?url=https://rawcdn.githack.com/HEXcube/DataPreprocessPy/v1.1/Report%20Prototype.docx)
+- [Run jupyter notebooks on Google Colab](https://colab.research.google.com/github/RohanVilloth/DataPreprocessPy/)
+- [View assignment report on Google Docs Viewer](https://docs.google.com/gview?url=https://rawcdn.githack.com/RohanVilloth/DataPreprocessPy/v1.1/Report%20Prototype.docx)
 
 ## Credits
 By team_pyCrastinators:
